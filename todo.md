@@ -5,6 +5,7 @@ Todo
 * Switch to JPA instead of JDBC. This involves switching to MySQL. For which we should make
 another spring profile instead of removing the h2 profile because we might still
 want to maintain the h2 profile for dev/testing purposes.
+* How do we bootstrap the db as opposed to raw sql file as with h2?
 
 
 Questions
